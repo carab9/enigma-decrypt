@@ -2,6 +2,7 @@
 This project is a Enigma-2 cryptographic machine decryption program. It reads in a encrypted text, encrypt.txt, ecrypted by Enigma machine with two rotors, and no plug-board, stores it in a database, and then decrypts it to the original text and print the decrypted text to stdout.
 
 ![image](https://github.com/carab9/enigma-decrypt/blob/main/enigma_machine1.png?raw=true)
+
 ![image](https://github.com/carab9/enigma-decrypt/blob/main/enigma_machine2.png?raw=true)
 
 ## Requirements
@@ -12,3 +13,5 @@ Decryption algorithm for Enigma-2 machine using C++ data structures, such as vec
 
 ## Results
 The decrypted text printed in stdout.
+
+![image](https://github.com/carab9/enigma-decrypt/blob/main/enigma_decrypted.png?raw=true)
