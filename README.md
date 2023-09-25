@@ -1,5 +1,5 @@
 # enigma-decrypt
-This project is a Enigma-2 cryptographic machine decryption program. It reads in a encrypted text, encrypt.txt, ecrypted by Enigma machine with two rotors, and no plug-board, stores it in a database, and then decrypts it to the original text and print the decrypted text to stdout.
+This project is a Enigma-2 cryptographic machine decryption program. It reads in a encrypted text, encrypt.txt, ecrypted by Enigma machine with two rotors, and no plug-board, stores it in a database, and then decrypts it to the original text and prints the decrypted text to stdout.
 
 ![image](https://github.com/carab9/enigma-decrypt/blob/main/enigma_machine1.png?raw=true)
 
