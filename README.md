@@ -9,7 +9,7 @@ This project is a Enigma-2 cryptographic machine decryption program. It reads in
 C++ and C++ libraries: iostream, string, fstream, vector, map, tuple, algorithm
 
 ## Technical Skills
-Decryption algorithm for Enigma-2 machine using C++ STL containers, such as vector, map, and tuple.
+Decryption algorithm for Enigma-2 machine using C++ STL containers, such as vector, map, and tuple and a few function in STL algorithms.
 
 ## Results
 The decrypted text printed in stdout.
