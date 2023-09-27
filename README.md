@@ -1,5 +1,5 @@
 # enigma-decrypt
-This project is a Enigma-2 cryptographic machine decryption program. It reads in a encrypted text, encrypt.txt, ecrypted by Enigma machine with two rotors, and no plug-board, stores it in a database, and then decrypts it to the original text and prints the decrypted text to stdout.
+This project is a Enigma-2 cryptographic machine decryption program. It reads a encrypted text, encrypt.txt, ecrypted by Enigma machine with two rotors, and no plug-board, stores it in a database, and then decrypts it to the original text and prints the decrypted text to stdout.
 
 ![image](https://github.com/carab9/enigma-decrypt/blob/main/enigma_machine1.png?raw=true)
 
@@ -7,7 +7,7 @@ This project is a Enigma-2 cryptographic machine decryption program. It reads in
 
 ## Architecture
 
-The main program uses a FileIO class object to read in the encrypted text file and store the data in a DataBase class object. Then it uses a Decrypt class object to decrypt the encrypted text and a UI class object to print the decrypted text to stdout.
+The main program uses a FileIO class object to read a encrypted text file and stores the data in a DataBase class object. Then it uses a Decrypt class object to decrypt the encrypted text and a UI class object to print the decrypted text to stdout.
 
 ## Requirements
 C++ and C++ libraries: iostream, string, fstream, vector, map, tuple, algorithm
